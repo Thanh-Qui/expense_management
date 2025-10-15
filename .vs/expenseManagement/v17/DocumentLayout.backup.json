@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\middlewares\\sessionauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\middlewares\\sessionauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Program.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Program.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Program.cs",
+              "RelativeToolTip": "expenseManagement\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:56:50.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionAuthMiddleware.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
+              "RelativeToolTip": "expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T08:04:50.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
