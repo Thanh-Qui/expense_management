@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\middlewares\\sessionauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\middlewares\\sessionauthmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\views\\blog\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\views\\blog\\addoredit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\models\\blogimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|d:\\projectcntt\\projectasp.net\\expensemanagement\\expensemanagement\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BFEDCEDF-0EA9-43F5-AAA6-460624F005F7}|expenseManagement\\expenseManagement.csproj|solutionrelative:expensemanagement\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +54,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Program.cs",
-              "RelativeDocumentMoniker": "expenseManagement\\Program.cs",
-              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Program.cs",
-              "RelativeToolTip": "expenseManagement\\Program.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAA8AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "expenseManagement\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCgAAABPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T08:56:50.743Z",
+              "WhenOpened": "2025-10-18T09:40:16.411Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SessionAuthMiddleware.cs",
-              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
-              "RelativeDocumentMoniker": "expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
-              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
-              "RelativeToolTip": "expenseManagement\\Middlewares\\SessionAuthMiddleware.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAkwBsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "expenseManagement\\Views\\Category\\Index.cshtml",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "expenseManagement\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T09:26:52.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "expenseManagement\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "expenseManagement\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T09:06:36.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrEdit.cshtml",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Blog\\AddOrEdit.cshtml",
+              "RelativeDocumentMoniker": "expenseManagement\\Views\\Blog\\AddOrEdit.cshtml",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Blog\\AddOrEdit.cshtml",
+              "RelativeToolTip": "expenseManagement\\Views\\Blog\\AddOrEdit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T08:55:24.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "expenseManagement\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "expenseManagement\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAowAoCAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-18T08:50:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Controllers\\BlogController.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "expenseManagement\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwE4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T08:04:50.472Z",
+              "WhenOpened": "2025-10-18T09:37:23.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "expenseManagement\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "expenseManagement\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-18T08:40:09.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Models\\Blog.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Models\\Blog.cs",
+              "RelativeToolTip": "expenseManagement\\Models\\Blog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:45:15.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlogImage.cs",
+              "DocumentMoniker": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Models\\BlogImage.cs",
+              "RelativeDocumentMoniker": "expenseManagement\\Models\\BlogImage.cs",
+              "ToolTip": "D:\\ProjectCNTT\\ProjectASP.NET\\expenseManagement\\expenseManagement\\Models\\BlogImage.cs",
+              "RelativeToolTip": "expenseManagement\\Models\\BlogImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T08:47:08.813Z",
               "EditorCaption": ""
             }
           ]

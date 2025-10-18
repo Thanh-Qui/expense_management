@@ -1,4 +1,4 @@
-wwwroot\css\site.css
+wwwroot\background.jpg
 wwwroot\favicon.ico
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
@@ -58,5 +58,11 @@ wwwroot\lib\jquery\dist\jquery.js
 wwwroot\lib\jquery\dist\jquery.min.js
 wwwroot\lib\jquery\dist\jquery.min.map
 wwwroot\lib\jquery\LICENSE.txt
-wwwroot\logo.png
 wwwroot\profile.png
+wwwroot\logo.png
+wwwroot\css\site.css
+wwwroot\login.png
+wwwroot\uploads\blogs\fe9d3201-fdc5-4f46-8298-1a4126f71977_logo.png
+wwwroot\uploads\blogs\359bedec-7e8b-4271-8a53-9d2c9f37050b_login.png
+wwwroot\uploads\blogs\4e585a70-b5fe-40e4-86ee-861cfaaaf885_logo.png
+wwwroot\uploads\blogs\ae8db704-6323-451f-98c0-ed872a03ed17_background.jpg

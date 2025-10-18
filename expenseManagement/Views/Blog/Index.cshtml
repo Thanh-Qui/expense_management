@@ -1,0 +1,92 @@
+﻿@model IEnumerable<expenseManagement.Models.Blog>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="blog-container">
+    <div class="blog-header">
+        <a href="@Url.Action("AddOrEdit")" class="create-btn">
+            <i class="fa-solid fa-plus"></i> Tạo bài viết mới
+        </a>
+    </div>
+
+    @if (Model != null && Model.Any())
+    {
+        foreach (var item in Model.OrderByDescending(x => x.PublishedAt ?? x.CreatedAt))
+        {
+            if (item.IsPublished)
+            {
+                <div class="blog-post">
+                    <!-- title -->
+                    <div class="post-header">
+                        <div class="post-info">
+                            <h2 class="post-title">
+                                @item.Title
+                            </h2>
+                            <div class="post-time">
+                                <span>🕒</span>
+                                <span>@((item.PublishedAt ?? item.CreatedAt).ToString("dd/MM/yyyy HH:mm"))</span>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- content -->
+                    <div class="post-content">
+                        @Html.Raw(item.Content?.Length > 200 ? item.Content.Substring(0, 200) + "..." : item.Content)
+                    </div>
+
+                    <!-- image -->
+                    @if (item.Images != null && item.Images.Any())
+                    {
+                        var imageList = item.Images.ToList();
+                        var imageCount = imageList.Count;
+
+                        <div class="post-images">
+                            @if (imageCount == 1)
+                            {
+                                <img src="@imageList[0].ImagePath" alt="@item.Title" class="post-image single"/>
+                            }
+                            else
+                            {
+                                <div class="multiple-images-grid">
+                                    @for (int i = 0; i < Math.Min(3, imageCount); i++)
+                                    {
+                                        <div class="image-wrapper">
+                                            <img src="@imageList[i].ImagePath" alt="@item.Title" class="post-image" />
+                                            @if (i == 2 && imageCount > 3)
+                                            {
+                                                <div class="overlay">
+                                                    +@(imageCount - 3)
+                                                </div>
+                                            }
+                                        </div>
+                                    }
+                                </div>
+                            }
+                        </div>
+                    }
+
+                    <div class="post-actions">
+                        <a href="/Blog/AddOrEdit/@item.Id" class="action-btn">Chỉnh sửa</a>
+                        <form action="/Blog/Delete/@item.Id" method="post" class="action-btn">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-sm btn-link no-a-decoration"
+                                    onclick="return confirm(&quot;Are sure to delete this record?&quot;)">
+                               Xóa bài viết
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            }
+        }
+    }
+    else
+    {
+        <div class="no-posts">
+            <h3>Chưa có bài viết nào</h3>
+            <p>Hãy bắt đầu chia sẻ câu chuyện của bạn!</p>
+            <a href="@Url.Action("AddOrEdit")" class="create-btn">Viết bài đầu tiên</a>
+        </div>
+    }
+</div>

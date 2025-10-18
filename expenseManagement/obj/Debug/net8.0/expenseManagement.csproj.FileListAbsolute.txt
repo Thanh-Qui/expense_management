@@ -289,3 +289,4 @@ D:\ProjectCNTT\ProjectASP.NET\expenseManagement\expenseManagement\bin\Debug\net8
 D:\ProjectCNTT\ProjectASP.NET\expenseManagement\expenseManagement\bin\Debug\net8.0\Syncfusion.Licensing.dll
 D:\ProjectCNTT\ProjectASP.NET\expenseManagement\expenseManagement\obj\Debug\net8.0\expenseManagement.MvcApplicationPartsAssemblyInfo.cs
 D:\ProjectCNTT\ProjectASP.NET\expenseManagement\expenseManagement\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\ProjectCNTT\ProjectASP.NET\expenseManagement\expenseManagement\obj\Debug\net8.0\expenseManagement.sourcelink.json
